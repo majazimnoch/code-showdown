@@ -67,7 +67,7 @@
     },
 
     {
-        "title": "Random Daily-News Generator",
+        "title": "News Generator",
         "tech": "HTML, CSS, JavaScript, REST API",
         "image": "./assets/day9.png",
         "button-git": "Github",
@@ -107,7 +107,7 @@
     },
 
     {
-        "title": "Art Generator with Art Institute of Chicago",
+        "title": "Art Generator",
         "tech": "HTML, CSS, JavaScript, API",
         "image": "./assets/day13.png",
         "button-git": "Github",

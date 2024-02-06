@@ -23,9 +23,10 @@ const displayProjects = (projects) => {
             <div class="circle" id="circle${index + 1}">${index + 1}</div>
             <h3>${project.title}</h3>
         </div>
+        <p class="p-gallery">${project.tech}</p>
         <div class="project-image-div">
-        <p class="tech-p">${project.tech}</p>
-        <img src="${project.image}" alt="${project.title}" class="project-image">
+            <img src="${project.image}" alt="${project.title}" class="project-image">
+            <p class="image-text">${project.tech}</p>
         </div>
         <div class="button-project-section">
             <button><a href="${project.githubLink}" target="_blank">${project["button-git"]}</a></button>
