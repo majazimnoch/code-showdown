@@ -67,12 +67,22 @@
     },
 
     {
-        "title": "Random Daily-News Generator ",
+        "title": "Random Daily-News Generator",
         "tech": "HTML, CSS, JavaScript, REST API",
         "image": "./assets/day9.png",
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day9",
         "demoLink": "https://silver-piroshki-7c92ba.netlify.app/"
+    }, 
+
+    {
+        "title": "Button that Runs Away",
+        "tech": "HTML, CSS, JavaScript",
+        "image": "./assets/day10.png",
+        "button-git": "Github",
+        "button-demo":"Demo",
+        "githubLink": "https://github.com/majazimnoch/code-day10",
+        "demoLink": "https://date-me-love.netlify.app/"
     }
 ]
