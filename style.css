@@ -124,7 +124,6 @@ button:hover {
 
 .image-header {
   width: 100%;
-  background-size: contain;
 
   @media (min-width: 1024px) {
     width: 50%;
@@ -132,8 +131,9 @@ button:hover {
 }
 
 .image-header img {
-  height: 100%;
   width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 /* gallery section */
