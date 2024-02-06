@@ -20,10 +20,15 @@ const displayProjects = (projects) => {
         // populate the div with the project information
         projectDiv.innerHTML = `
         <h3>${project.title}</h3>
-        <p>Day: ${project.date}</p>
+        <p>${project.tech}</p>
         <img src="${project.image}" alt="${project.title}" class="project-image">
-        <a href="${project.githubLink}" target="_blank">${project["button-git"]}</a>
-        <a href="${project.githubLink}" target="_blank">${project["button-git"]}</a>
+
+        <div class="button-project-section">
+        
+            <button><a href="${project.githubLink}" target="_blank">${project["button-git"]}</a></button>
+            <button><a href="${project.demoLink}" target="_blank">${project["button-demo"]}</a></button>
+        
+        </div>
         `;
 
         // apend the project div to the projects container

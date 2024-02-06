@@ -167,7 +167,24 @@ button:hover {
 }
 
 .project-image {
-  width: 200px;
-  height: 100%;
-  width: 100%;
+  float: center;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+
+  @media  (min-width: 1024px) {
+    width: 350px;
+  }
+}
+
+.button-project-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 20px 0;
+
+  @media  (min-width: 1024px) {
+    flex-direction: row;
+  }
 }

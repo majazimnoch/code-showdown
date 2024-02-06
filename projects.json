@@ -1,38 +1,78 @@
 [ 
     {
-        "title": "Project 1",
-        "date": "Day 1",
-        "image": "./assets/example.jpg",
+        "title": "Light Scroll Effect",
+        "tech": "HTML, CSS, JavaScript",
+        "image": "./assets/day1.png",
         "button-git": "Github",
         "button-demo":"Demo",
-        "githubLink": "https://github.com/",
-        "demoLink": "https://majazimnoch.netlify.com"
+        "githubLink": "https://github.com/majazimnoch/js-day1",
+        "demoLink": "https://thriving-kangaroo-eddb6d.netlify.app/"
     },
     {
-        "title": "Project 2",
-        "date": "Day 2",
-        "image": "./assets/example.jpg",
+        "title": "Expanding Gallery",
+        "tech": "HTML, CSS",
+        "image": "./assets/day2.png",
         "button-git": "Github",
         "button-demo":"Demo",
-        "githubLink": "https://github.com/",
-        "demoLink": "https://majazimnoch.netlify.com"
+        "githubLink": "https://github.com/majazimnoch/code-day2",
+        "demoLink": "https://adorable-gumption-6b5044.netlify.app/"
     },
     {
-        "title": "Project 1",
-        "date": "Day 1",
-        "image": "./assets/example.jpg",
+        "title": "Stopwatch",
+        "tech": "HTML, CSS, JavaScript",
+        "image": "./assets/day3.png",
         "button-git": "Github",
         "button-demo":"Demo",
-        "githubLink": "https://github.com/",
-        "demoLink": "https://majazimnoch.netlify.com"
+        "githubLink": "https://github.com/majazimnoch/code-day3",
+        "demoLink": "https://bejewelled-lebkuchen-362c65.netlify.app/"
     },
     {
-        "title": "Project 2",
-        "date": "Day 2",
-        "image": "./assets/example.jpg",
+        "title": "Sound and Image Effect on Click",
+        "tech": "HTML, CSS, JavaScript",
+        "image": "./assets/day4.png",
         "button-git": "Github",
         "button-demo":"Demo",
-        "githubLink": "https://github.com/",
-        "demoLink": "https://majazimnoch.netlify.com"
+        "githubLink": "https://github.com/majazimnoch/code-day4-5",
+        "demoLink": "https://playful-semifreddo-9ec36e.netlify.app/"
+    },
+
+    {
+        "title": "Color Picker",
+        "tech": "HTML, CSS, JavaScript",
+        "image": "./assets/day6.png",
+        "button-git": "Github",
+        "button-demo":"Demo",
+        "githubLink": "https://github.com/majazimnoch/code-day6",
+        "demoLink": "https://relaxed-narwhal-ebd84f.netlify.app/"
+    }, 
+
+    {
+        "title": "Visual Effect using Particles library",
+        "tech": "HTML, CSS, JavaScript, Particles",
+        "image": "./assets/day7.png",
+        "button-git": "Github",
+        "button-demo":"Demo",
+        "githubLink": "https://github.com/majazimnoch/code-day7",
+        "demoLink": "https://coruscating-duckanoo-6f9f91.netlify.app/"
+    },
+
+    {
+        "title": "Confetti Effect",
+        "tech": "HTML, CSS, JavaScript, Particles",
+        "image": "./assets/day8.png",
+        "button-git": "Github",
+        "button-demo":"Demo",
+        "githubLink": "https://github.com/majazimnoch/code-day8",
+        "demoLink": "https://jocular-seahorse-015f0c.netlify.app/"
+    },
+
+    {
+        "title": "Random Daily-News Generator ",
+        "tech": "HTML, CSS, JavaScript, REST API",
+        "image": "./assets/day9.png",
+        "button-git": "Github",
+        "button-demo":"Demo",
+        "githubLink": "https://github.com/majazimnoch/code-day9",
+        "demoLink": "https://silver-piroshki-7c92ba.netlify.app/"
     }
 ]
