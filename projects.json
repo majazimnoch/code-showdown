@@ -16,5 +16,23 @@
         "button-demo":"Demo",
         "githubLink": "https://github.com/",
         "demoLink": "https://majazimnoch.netlify.com"
+    },
+    {
+        "title": "Project 1",
+        "date": "Day 1",
+        "image": "./assets/example.jpg",
+        "button-git": "Github",
+        "button-demo":"Demo",
+        "githubLink": "https://github.com/",
+        "demoLink": "https://majazimnoch.netlify.com"
+    },
+    {
+        "title": "Project 2",
+        "date": "Day 2",
+        "image": "./assets/example.jpg",
+        "button-git": "Github",
+        "button-demo":"Demo",
+        "githubLink": "https://github.com/",
+        "demoLink": "https://majazimnoch.netlify.com"
     }
 ]
