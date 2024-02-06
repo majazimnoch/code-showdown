@@ -84,5 +84,45 @@
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day10",
         "demoLink": "https://date-me-love.netlify.app/"
+    },
+
+    {
+        "title": "Who is in space now?",
+        "tech": "HTML, CSS, JavaScript, API, LottieFiles",
+        "image": "./assets/day11.png",
+        "button-git": "Github",
+        "button-demo":"Demo",
+        "githubLink": "https://github.com/majazimnoch/code-day11",
+        "demoLink": "https://fantastic-hamster-a2725c.netlify.app/"
+    },
+
+    {
+        "title": "Subtle Effect on scroll",
+        "tech": "HTML, CSS, JavaScript",
+        "image": "./assets/day12.png",
+        "button-git": "Github",
+        "button-demo":"Demo",
+        "githubLink": "https://github.com/majazimnoch/code-day12",
+        "demoLink": "https://teal-chimera-e4ca1d.netlify.app/"
+    },
+
+    {
+        "title": "Art Generator with Art Institute of Chicago",
+        "tech": "HTML, CSS, JavaScript, API",
+        "image": "./assets/day13.png",
+        "button-git": "Github",
+        "button-demo":"Demo",
+        "githubLink": "https://github.com/majazimnoch/code-day13",
+        "demoLink": "https://fastidious-babka-6479df.netlify.app/"
+    },
+
+    {
+        "title": "Ticket Counter",
+        "tech": "React, React Hook 'useState'",
+        "image": "./assets/day14.png",
+        "button-git": "Github",
+        "button-demo":"Demo",
+        "githubLink": "https://github.com/majazimnoch/code-day14",
+        "demoLink": "https://sparkling-strudel-cea7aa.netlify.app/"
     }
 ]

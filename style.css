@@ -150,10 +150,14 @@ button:hover {
 }
 
 #projects-container {
-  border: 1px rgb(102, 0, 255) solid;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(1, 1fr);
   gap: 20px;
+
+  @media  (min-width: 668px) {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
+  }
 
   @media  (min-width: 1024px) {
     grid-template-columns: repeat(4, 1fr);
@@ -161,20 +165,23 @@ button:hover {
   }
 }
 .project {
-  border: 1px red solid;
   display: flex;
   flex-direction: column;
 }
 
 .project-image {
   float: center;
-  width: 300px;
+  width: 100%;
   height: 300px;
   object-fit: cover;
 
   @media  (min-width: 1024px) {
-    width: 350px;
+   
   }
+}
+
+.project-image-div {
+  border: 1px red solid;
 }
 
 .button-project-section {
@@ -187,4 +194,34 @@ button:hover {
   @media  (min-width: 1024px) {
     flex-direction: row;
   }
+}
+
+.footer {
+  display: block;
+}
+
+.circle-div {
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+gap: 10px;
+padding: 10px 0;
+}
+
+.circle {
+  width: 40px;
+  height: 40px;
+  
+  background-color: violet;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+}
+
+.tech-p {
+  text-align: end;
+  margin: 0 0 10px 0;
 }
