@@ -81,7 +81,7 @@
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day9",
         "demoLink": "https://silver-piroshki-7c92ba.netlify.app/",
-        "comment": "Here I fetch from an API to display some information from an American newspapers base."
+        "comment": "Here I fetch from an API to display some information from newspapers base."
     }, 
 
     {
@@ -102,7 +102,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day11",
-        "demoLink": "https://fantastic-hamster-a2725c.netlify.app/"
+        "demoLink": "https://fantastic-hamster-a2725c.netlify.app/",
+        "comment": "Here I fetch from an API and style with a Lottie animation."
     },
 
     {
@@ -112,7 +113,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day12",
-        "demoLink": "https://teal-chimera-e4ca1d.netlify.app/"
+        "demoLink": "https://teal-chimera-e4ca1d.netlify.app/",
+        "comment": "While scrolling down the page, we see a subtle effect of sliding objects, done with JavaScript."
     },
 
     {
@@ -122,7 +124,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day13",
-        "demoLink": "https://fastidious-babka-6479df.netlify.app/"
+        "demoLink": "https://fastidious-babka-6479df.netlify.app/",
+        "comment": "Here I use a public API from the Art Institute of Chicago and display a random artwork from their base."
     },
 
     {
@@ -132,7 +135,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day14",
-        "demoLink": "https://sparkling-strudel-cea7aa.netlify.app/"
+        "demoLink": "https://sparkling-strudel-cea7aa.netlify.app/",
+        "comment": "I practise useState hook in React to create a ticket counter."
     },
 
     {
@@ -142,7 +146,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day15",
-        "demoLink": "https://coruscating-profiterole-4c3f9e.netlify.app/"
+        "demoLink": "https://coruscating-profiterole-4c3f9e.netlify.app/",
+        "comment": "I found a nice design on Behance and I created a component (hero) based on the design."
     },
 
     {
@@ -152,7 +157,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day16",
-        "demoLink": "https://startling-jalebi-1a3618.netlify.app/"
+        "demoLink": "https://startling-jalebi-1a3618.netlify.app/",
+        "comment": "I use React hooks, useState and useRef, to create a functional quiz about geography."
     },
 
     {
