@@ -294,10 +294,22 @@ button:hover {
   display: flex;
   flex-direction: column;
   gap: 90px;
+  line-height: 1.5;
 
   @media (min-width: 1024px) {
     flex-direction: row;
   }
+}
+.part-about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.about-icon {
+  width: 100px;
 }
 /* footer */
 footer {
