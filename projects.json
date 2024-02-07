@@ -6,7 +6,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/js-day1",
-        "demoLink": "https://thriving-kangaroo-eddb6d.netlify.app/"
+        "demoLink": "https://thriving-kangaroo-eddb6d.netlify.app/",
+        "comment": "My first project! I practised adding event listeners and learnt about mouse coordinates."
     },
     {
         "title": "Expanding Gallery",
@@ -15,7 +16,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day2",
-        "demoLink": "https://adorable-gumption-6b5044.netlify.app/"
+        "demoLink": "https://adorable-gumption-6b5044.netlify.app/",
+        "comment": "Here I worked with styling using e.g. pseudo-classes in CSS."
     },
     {
         "title": "Stopwatch",
@@ -24,7 +26,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day3",
-        "demoLink": "https://bejewelled-lebkuchen-362c65.netlify.app/"
+        "demoLink": "https://bejewelled-lebkuchen-362c65.netlify.app/",
+        "comment": "This time I use querySelector to selects the DOM objects. UpdateTime function calculates the elapsed time, while pad function formats the time."
     },
     {
         "title": "Sound and Image Effect on Click",
@@ -33,7 +36,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day4-5",
-        "demoLink": "https://playful-semifreddo-9ec36e.netlify.app/"
+        "demoLink": "https://playful-semifreddo-9ec36e.netlify.app/",
+        "comment": "I work with Audio object and conditional rendering."
     },
 
     {
@@ -43,7 +47,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day6",
-        "demoLink": "https://relaxed-narwhal-ebd84f.netlify.app/"
+        "demoLink": "https://relaxed-narwhal-ebd84f.netlify.app/",
+        "comment": "Here I practise random() and floor() methods of Math object. I also convert number to string."
     }, 
 
     {
@@ -53,7 +58,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day7",
-        "demoLink": "https://coruscating-duckanoo-6f9f91.netlify.app/"
+        "demoLink": "https://coruscating-duckanoo-6f9f91.netlify.app/",
+        "comment": "Time to use a popular library Particles!"
     },
 
     {
@@ -63,7 +69,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day8",
-        "demoLink": "https://jocular-seahorse-015f0c.netlify.app/"
+        "demoLink": "https://jocular-seahorse-015f0c.netlify.app/",
+        "comment": "Here another library, attached to HTML file through a script tag (CDN)."
     },
 
     {
@@ -73,7 +80,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day9",
-        "demoLink": "https://silver-piroshki-7c92ba.netlify.app/"
+        "demoLink": "https://silver-piroshki-7c92ba.netlify.app/",
+        "comment": "Here I fetch from an API to display some information from an American newspapers base."
     }, 
 
     {
@@ -83,7 +91,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day10",
-        "demoLink": "https://date-me-love.netlify.app/"
+        "demoLink": "https://date-me-love.netlify.app/",
+        "comment": "It's quite a lot of code to make this logic works!"
     },
 
     {

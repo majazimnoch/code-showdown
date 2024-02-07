@@ -30,7 +30,7 @@ const displayProjects = (projects) => {
         </div>
         <div class="project-image-div">
             <img src="${project.image}" alt="${project.title}" class="project-image">
-            <p class="image-text">${project.tech}</p>
+            <p class="image-text">${project.comment}</p>
         </div>
         <div class="button-project-section">
             <a href="${project.githubLink}" target="_blank"><button>${project["button-git"]}</button></a>
