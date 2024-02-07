@@ -33,6 +33,10 @@ nav .left {
   align-items: center;
 }
 
+.icon {
+  width: 50px;
+}
+
 ul {
   display: flex;
   flex-direction: row;
@@ -49,9 +53,6 @@ li {
   flex-direction: column-reverse;
   background-color: #a9c7e9;
   color: #2b3046;
-
-  @media (min-width: 668px) {
-  }
 
   @media (min-width: 1024px) {
     flex-direction: row;
@@ -224,6 +225,10 @@ button:hover {
   display: block;
 }
 
+.project-top {
+  min-height: 150px;
+}
+
 .circle-div {
   display: flex;
   flex-direction: row;
@@ -233,10 +238,13 @@ button:hover {
   padding: 10px 0;
 }
 
+.container-circle {
+  width: 12%;
+}
 .circle {
   width: 40px;
   height: 40px;
-
+  border-radius: 50%;
   background-color: #6860f9;
   color: #fbfffe;
   display: flex;

@@ -19,18 +19,22 @@ const displayProjects = (projects) => {
 
         // Populate the div with the project information
         projectDiv.innerHTML = `
-        <div class="circle-div">
-            <div class="circle" id="circle${index + 1}">${index + 1}</div>
-            <h3>${project.title}</h3>
+        <div class="project-top">
+            <div class="circle-div">
+            <div class="container-circle">
+                <div class="circle" id="circle${index + 1}">${index + 1}</div>
+             </div>
+                <h3>${project.title}</h3>
+            </div>
+            <p class="p-gallery">${project.tech}</p>
         </div>
-        <p class="p-gallery">${project.tech}</p>
         <div class="project-image-div">
             <img src="${project.image}" alt="${project.title}" class="project-image">
             <p class="image-text">${project.tech}</p>
         </div>
         <div class="button-project-section">
-            <button><a href="${project.githubLink}" target="_blank">${project["button-git"]}</a></button>
-            <button><a href="${project.demoLink}" target="_blank">${project["button-demo"]}</a></button>
+            <a href="${project.githubLink}" target="_blank"><button>${project["button-git"]}</button></a>
+            <a href="${project.demoLink}" target="_blank"><button>${project["button-demo"]}</button></a>
         </div>
         `;
 
