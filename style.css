@@ -129,6 +129,7 @@ button {
   color: #feffff;
   background-color: #6860f9;
   height: 48px;
+  width: 100%;
 }
 
 button:hover {
