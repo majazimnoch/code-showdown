@@ -168,7 +168,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day17-18",
-        "demoLink": "https://splendorous-seahorse-9257d3.netlify.app/"
+        "demoLink": "https://splendorous-seahorse-9257d3.netlify.app/",
+        "comment": "I use React hooks, useState and useEffect, to fetch info from json placeholder."
     },
 
     {
@@ -178,7 +179,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day19",
-        "demoLink": "https://super-clafoutis-1eb260.netlify.app/"
+        "demoLink": "https://super-clafoutis-1eb260.netlify.app/",
+        "comment": "I give it a try and make div with irregular shapes, such as blobs. I also use keyframes animations."
     },
 
     {
@@ -188,7 +190,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day20",
-        "demoLink": "https://zippy-ganache-685ed8.netlify.app/"
+        "demoLink": "https://zippy-ganache-685ed8.netlify.app/",
+        "comment": "Practising a common cookie banner with pure JS."
     },
 
 
@@ -199,7 +202,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day21",
-        "demoLink": "https://bejewelled-dragon-4a63c0.netlify.app/"
+        "demoLink": "https://bejewelled-dragon-4a63c0.netlify.app/",
+        "comment": "Playing around with CSS to make interesting, colorful and fun containers."
     },
 
     {
@@ -209,7 +213,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day22",
-        "demoLink": "https://lighthearted-lamington-e3c3ef.netlify.app/"
+        "demoLink": "https://lighthearted-lamington-e3c3ef.netlify.app/",
+        "comment": "Using CSS to make flashcards. Trying 'transform-style' css property."
     }, 
 
     {
@@ -219,7 +224,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day23-24-25",
-        "demoLink": "https://hilarious-snickerdoodle-fd4dd4.netlify.app/"
+        "demoLink": "https://hilarious-snickerdoodle-fd4dd4.netlify.app/",
+        "comment": "My first Vue heavy project. I use some features provided by the framework like ref, watch, onMounted, computed."
     },
 
     {
@@ -229,7 +235,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day26",
-        "demoLink": "https://thriving-hamster-649c61.netlify.app/"
+        "demoLink": "https://thriving-hamster-649c61.netlify.app/",
+        "comment": "I wanted to practise more of JS functions, conditions and methods and building the tic tac toe game offers it all."
     },
 
     {
@@ -239,7 +246,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day27",
-        "demoLink": "https://jazzy-sunburst-a46daa.netlify.app/"
+        "demoLink": "https://jazzy-sunburst-a46daa.netlify.app/",
+        "comment": "Learning more about Vue. Increasing value and switching a word with Vue."
     },
 
     {
@@ -249,7 +257,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day28",
-        "demoLink": "https://heydrama.netlify.app/"
+        "demoLink": "https://heydrama.netlify.app/",
+        "comment": "I was playing around with some JavScript built-in methods and I came up with an idea for this website."
     },
 
     {
@@ -259,7 +268,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day29",
-        "demoLink": "https://vue-lemurs.netlify.app/"
+        "demoLink": "https://vue-lemurs.netlify.app/",
+        "comment": "Learning more about conditional rendering in Vue and about lovely lemurs."
     },
 
     {
@@ -269,7 +279,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day30",
-        "demoLink": "https://qr-all.netlify.app/"
+        "demoLink": "https://qr-all.netlify.app/",
+        "comment": "It's a very easy and useful project, which requires fetching from a public QR code API."
     }, 
 
     {
@@ -279,7 +290,8 @@
         "button-git": "Github",
         "button-demo":"Demo",
         "githubLink": "https://github.com/majazimnoch/code-day31",
-        "demoLink": "https://melodic-moxie-23f251.netlify.app/"
+        "demoLink": "https://melodic-moxie-23f251.netlify.app/",
+        "comment": "As I am into numerology I finally made an app which enables calculating quickly someone's life path number and learning more about their personality."
     }
 
 ]

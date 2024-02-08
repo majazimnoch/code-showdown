@@ -12,9 +12,22 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+
+.icon-social {
+  width: 50px;
+  transition: transform .7s ease-in-out;
+}
+
+.icon-social:hover {
+  opacity: .6;
+  transform: rotate(360deg);
+}
+
+
 a {
   color: #fbfffe;
   text-decoration: none;
+  transition: color 0.3s ease-in-out;
 }
 
 a:hover {
@@ -23,6 +36,43 @@ a:hover {
 
 a:active {
   color: #6860f9;
+} 
+
+.a-nav {
+  background-image: linear-gradient(
+    to right,
+    #a9c7e9,
+    #a9c7e9 50%,
+    #ffffff 50%
+  );
+  background-size: 200% 100%;
+  background-position: -100%;
+  display: inline-block;
+  padding: 5px 0;
+  position: relative;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: all 0.3s ease-in-out;
+}
+
+.a-nav:before {
+  content: '';
+  background: #a9c7e9;
+  display: block;
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  width: 0;
+  height: 3px;
+  transition: all 0.3s ease-in-out;
+}
+
+.a-nav:hover {
+ background-position: 0;
+}
+
+.a-nav:hover::before {
+  width:100%;
 }
 
 nav {
@@ -107,6 +157,9 @@ li {
 .author-img {
   width: 80px;
   border-radius: 50%;
+}
+.bold {
+  font-weight: 600;
 }
 
 button {
