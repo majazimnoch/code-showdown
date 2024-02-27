@@ -23,7 +23,6 @@ body {
   transform: rotate(360deg);
 }
 
-
 a {
   color: #fbfffe;
   text-decoration: none;
@@ -229,6 +228,11 @@ button:hover {
   }
 
   @media (min-width: 1024px) {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+http://127.0.0.1:5500/assets/example.jpg  }
+
+  @media (min-width: 1700px) {
     grid-template-columns: repeat(4, 1fr);
     gap: 40px;
   }
